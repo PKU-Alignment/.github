@@ -1,6 +1,6 @@
 ## PKU-Alignment
 
-Large language models (LLM) have immense potential in the field of general intelligence but come with significant risks. As a research team at Peking University, we actively focus on alignment techniques for large language models, such as safety alignment, to enhance the model's safety and reduce toxicity.
+Large language models (LLMs) have immense potential in the field of general intelligence but come with significant risks. As a research team at Peking University, we actively focus on alignment techniques for LLMs, such as safety alignment, to enhance the model's safety and reduce toxicity.
 
 Welcome to follow our AI Safety project:
 - [align-anything](https://github.com/PKU-Alignment/align-anything) [![GitHub stars](https://img.shields.io/github/stars/PKU-Alignment/align-anything)](https://github.com/PKU-Alignment/align-anything/stargazers)
