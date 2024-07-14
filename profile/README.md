@@ -1,4 +1,4 @@
-## PKU-Alignment
+## PKU-Alignment Team
 
 Large language models (LLMs) have immense potential in the field of general intelligence but come with significant risks. As a research team at Peking University, we actively focus on alignment techniques for LLMs, such as safety alignment, to enhance the model's safety and reduce toxicity.
 
